@@ -1,4 +1,3 @@
-# edwin-nyandika.github.io
 # Hi there, I'm Edwin Nyandika! 👋
 
 <div align="center">
