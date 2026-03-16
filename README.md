@@ -35,9 +35,15 @@
 
 <div align="center">
 
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-nyandika&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=edwinnyandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=8899aa&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-nyandika&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinnyandika&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00C4FF&currStreakLabel=00F5D4&sideLabels=8899aa&dates=4a6070" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnyandika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8899aa&langs_count=6" width="45%" />
 
 </div>
 
